@@ -1,0 +1,14 @@
+.header{
+    position: fixed;
+    top: 0%;
+    right: 0px;
+    left: 0px;
+}
+
+.head{
+    color: black;
+}
+.header .head1{
+    width: 150px;
+    height: 150px;
+}
